@@ -1,4 +1,4 @@
-# beecrowd
+
 
 # Arquivos de Estudo em Python
 
